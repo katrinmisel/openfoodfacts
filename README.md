@@ -28,3 +28,4 @@ La liste des librairies utilisés se trouvent dans le fichier requirements.txt.
 - prototype.ipynb : Fichier JupyterNotebook contenant le prototype (système de filtrage des données alimentaires)
 - fr.openfoodfacts.org.products : Jeu de données utilisé pour l'analyse
 - openfood_filtered : Jeu de données après nettoyage
+- functions.py : Fonctions ACP, ANOVA
