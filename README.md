@@ -1,6 +1,6 @@
 # Préparez des données pour un organisme de santé publique
 
-Analyse basée sur le jeu de données Open Food : https://fr.openfoodfacts.org/
+Analyse basée sur le jeu de données Open Food : https://fr.openfoodfacts.org/  
 Projet réalisé dans le cadre de la formation OpenClassrooms : Data Scientist parcours Ingenieur IA
 
 L'objectif de cette analyse est de : 
